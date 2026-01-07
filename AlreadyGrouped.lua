@@ -11,7 +11,7 @@ frame:SetScript("OnEvent", function(_, _, message)
 
     if name then
         SendChatMessage(
-            "I tried inviting you but you're already in a group, you stupid bitch {rt8}",
+            "I tried inviting you but you're already in a group",
             "WHISPER",
             nil,
             name
