@@ -1,0 +1,7 @@
+## Interface: 11405
+## Title: Already Grouped
+## Notes: Whispers players if they are already in a group when invited
+## Author: ChadGG Soulseeker EU
+## Version: 1.0
+
+AlreadyGrouped.lua
